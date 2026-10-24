@@ -158,4 +158,4 @@ AWMC geodata（ODbL）、Natural Earth、Platner《古罗马地名词典》、�
 
 ## 许可
 
-发布前由作者选择（建议：文档 CC BY 4.0，脚本 MIT）。小说引文与 `examples/` 里的正文摘录版权归原作者。
+文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，脚本采用 MIT License。小说引文与 `examples/` 里的正文摘录版权归原作者。
